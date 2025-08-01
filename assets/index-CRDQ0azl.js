@@ -46351,7 +46351,7 @@ var Hx = function (t, n, r, a) {
     ["path", { d: "M12 17h.01", key: "p32p05" }],
   ],
   dne = hn("triangle-alert", fne),
-  hne = "/diegoperezr.github.io/assets/c136_paso1_preparacion_muestra.png",
+  hne = "assets/c136_paso1_preparacion_muestra.png",
   pne = "/diegoperezr.github.io/assets/c136_paso2_seleccion_tamices.png",
   mne = "/diegoperezr.github.io/assets/c136_paso3_pesado_muestra.png",
   yne = "/diegoperezr.github.io/assets/c136_paso4_tamizado.png",
